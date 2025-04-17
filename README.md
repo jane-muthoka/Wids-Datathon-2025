@@ -1,4 +1,4 @@
-# Wids Datthon 2025
+# Wids Dathon 2025
 ## Focus: Brain health 
 In this year’s WiDS Datathon, participants will be tasked with building a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information
 
